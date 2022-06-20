@@ -1,0 +1,18 @@
+# pycache folder
+__pycache__
+
+# Virtual environment
+venv
+
+# Logs
+*.log
+
+# IDEA folder
+.idea
+
+# JPG files
+*.jpg
+
+# Models
+*.h5
+
